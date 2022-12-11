@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-attachment: fixed;
+    background: 100%;
+    background-color: rgb(148, 223, 148);
+    
+}
+
+#dados {
+   
+    background-color: rgba(117, 80, 36, 0.517);
+    border-radius: 15px;
+    text-align: right;
+    padding-right: 50px;
+}
+#name , #email, #phone, #cpf, #password, #submit {
+    font-weight: bold;
+    color: rgb(27, 39, 32);
+    text-decoration: solid;
+    background-color: rgb(243, 242, 245);
+    padding: 10%;
+    margin: 6%;
+    border-color: greenyellow;
+    align-self: center;
+    font-size: 1.0rem;
+    
+
+}
+#identificacao {
+    position: fixed;
+    background-attachment: center;
+    top: 25%;
+    left: 50%;
+    padding: 0;
+    margin: 0;    
+    transform: translateX(-50%);
+    border-radius: 25px;
+    background-color: rgb(54, 59, 59);
+    text-align: center;
+    align-self: center;
+     
+}
+#submit{
+    align-self: center;
+} 
